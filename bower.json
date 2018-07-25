@@ -1,0 +1,14 @@
+{
+  "name": "JasmineTest",
+  "homepage": "https://github.com/TheEsquel/JasmineTest",
+  "authors": [
+    "TheEsquel"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jasmine-core": "^3.1.0"
+  }
+}
